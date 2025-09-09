@@ -1,0 +1,11 @@
+---
+title: "Welcome to My Website"
+author: "Haocun Wang"
+date: "2025-09-07"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.
